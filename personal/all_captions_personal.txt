@@ -1,0 +1,500 @@
+002 (1).jpg:
+  1: a man waters flowers on a field in the sun
+  2: a woman watering on her plants while holding a green umbrella
+  3: a man is holding a sprinkler while another person in a hat stands near a green garden
+
+002 (10).jpg:
+  1: group of five people are posing for a picture
+  2: a group of teenagers sitting on a wall posing for a photo
+  3: a group of people sitting on a stone bench
+
+002 (100).jpg:
+  1: a man looking in a mirror while wearing a shirt
+  2: a man with a surprised look standing in front of the mirror
+  3: a man is in the mirror brushing his teeth
+
+002 (11).jpg:
+  1: two people hug on the beach next to the water
+  2: two girls with sunglasses are hugging and smiling
+  3: two women that are standing next to each other on a beach
+
+002 (12).jpg:
+  1: an older woman stands in front of a tall planter holding a cell phone
+  2: a woman standing next to a tower holding an iphone
+  3: an african american woman looking at a plant
+
+002 (13).jpg:
+  1: a man working with flowers at a rooftop garden
+  2: a man placing plants in different colors on a rooftop
+  3: man in grey shirt putting plants into plant pots
+
+002 (14).jpg:
+  1: two women with glasses in the middle of a picnic
+  2: two beautiful young women toasting on a blanket
+  3: two women taking a selfie while holding bottles
+
+002 (15).jpg:
+  1: a group of friends on the grass having fun
+  2: four girls laughing, one of them holding her daughter in her arms
+  3: four girls smiling and holding each other on the ground
+
+002 (16).jpg:
+  1: family gathered around a large kitchen island preparing food
+  2: the family has breakfast together in the kitchen
+  3: a family that are making a meal together
+
+002 (17).jpg:
+  1: people are gathered in the kitchen preparing and cooking
+  2: people in a kitchen are cooking and preparing food
+  3: a group of people standing around a kitchen with various items
+
+002 (18).jpg:
+  1: a family toasting over dinner at the table
+  2: a large group of people sitting around a dinner table
+  3: a group of people sitting around a white table with wine glasses
+
+002 (19).jpg:
+  1: a little girl is riding on the back of a man
+  2: a man holds his daughter while she is riding on his shoulders
+  3: a man carries a child on his back
+
+002 (2).jpg:
+  1: a man and a woman work together on a garden
+  2: two people are kneeling down near plants and digging in the ground
+  3: two people with red shirts and blue jeans work in a garden
+
+002 (20).jpg:
+  1: an image of a family walking down a trail
+  2: a man holding the hand of a small child
+  3: two adults and a child are walking through the woods
+
+002 (21).jpg:
+  1: a family lights a candles on christmas dinner
+  2: a family celebrating holiday in the kitchen
+  3: a family is preparing their dinner and lit candles
+
+002 (22).jpg:
+  1: two adults, two children and a girl posing for a photo with the eiffel tower in the background
+  2: a family posing for a photo at the eiffel tower
+  3: four people, one with her arm around the other, smile and pose in front of a photo of the eiffel tower
+
+002 (23).jpg:
+  1: the woman has just begun to cut out cookies
+  2: two women stand near an open counter in the kitchen
+  3: two women are looking at the table with the dough on it
+
+002 (24).jpg:
+  1: the man is carrying his three children by the hands
+  2: the man and two kids are walking together on the sidewalk
+  3: a man with a beard walks with two children
+
+002 (25).jpg:
+  1: several people sitting around the dinner table talking
+  2: a bunch of people sitting around a table with salads and drinks
+  3: group of people sitting at table with food
+
+002 (26).jpg:
+  1: two women are cooking food on the fire
+  2: there are two women cooking food over the fire
+  3: two women sitting on the ground while one holds a drink over an open fire pit
+
+002 (27).jpg:
+  1: an adult and child are playing with a soccer ball in the field
+  2: an adult plays with his toddler beside a soccer ball
+  3: a man and a woman playing with a child
+
+002 (28).jpg:
+  1: a man holding a little boy giving the thumbs up
+  2: a man holds up a little boy on his shoulders
+  3: a man holding up two little boys with thumbs up
+
+002 (29).jpg:
+  1: a couple poses for a photo together
+  2: a young man and woman posing for the camera
+  3: young man and woman in formal wear posing for a portrait
+
+002 (3).jpg:
+  1: young boy watering plants with metal watering can
+  2: a little boy watering a patch of green grass
+  3: a little boy that is holding a watering can
+
+002 (30).jpg:
+  1: a group of young people pose with their children
+  2: a group of people are posing for a picture
+  3: the people are standing on the hill with their children
+
+002 (31).jpg:
+  1: a man holding a little girl in his arms
+  2: the man and his child are enjoying the view
+  3: father and daughter standing in the mountains with mountain background
+
+002 (32).jpg:
+  1: three girls smiling and laying down on a bed
+  2: a family posing for a picture together with their heads above each other
+  3: three girls are lying down on a bed
+
+002 (33).jpg:
+  1: a man and woman with kids sitting on the floor
+  2: the man sits on the floor with three small children and blows out a candle
+  3: a family lighting a candle on the floor
+
+002 (34).jpg:
+  1: a family poses on their bed in their home
+  2: a group of adults and children sit on a bed together
+  3: this family is posing for a family photo on a bed
+
+002 (35).jpg:
+  1: two older people posing for a picture near bushes
+  2: an elderly man and woman standing under the tree
+  3: a older couple posing for the camera outside
+
+002 (36).jpg:
+  1: the couple are sitting on the bed looking at their laptop
+  2: the man and woman sit on a bed while looking at their laptop computer
+  3: a man and woman in robes on their beds with a laptop
+
+002 (37).jpg:
+  1: the young girl is watering out plants in the garden
+  2: a little girl watering crops in a vegetable garden
+  3: a young girl holds a watering spray in the garden
+
+002 (38).jpg:
+  1: a young man is sitting with an adult smiling
+  2: a couple sitting in the grass talking
+  3: a man and woman sitting in the grass
+
+002 (39).jpg:
+  1: two older women in party hats with presents
+  2: two older women are sitting on the couch holding wrapped presents
+  3: two older women are sitting on a couch with a gift wrapped in pink paper
+
+002 (4).jpg:
+  1: the group of people is standing outside in front of the water
+  2: a group of friends posing together for a photograph on a hill
+  3: group of people at sunset standing together and having fun
+
+002 (40).jpg:
+  1: a woman crouches to waters her yard
+  2: a woman with long blonde hair kneeling down in the yard with a hose
+  3: a woman kneeling in the middle of a garden sprinching water from an attached hose
+
+002 (41).jpg:
+  1: a girl is holding her mother in bed
+  2: a mother is hugging her daughter in bed
+  3: a woman holding a child in her arms on top of a bed
+
+002 (42).jpg:
+  1: a group of people sitting in front of a tent with guitars
+  2: there are three young people sitting in the grass playing instruments
+  3: young people sitting on grass by green tent playing instruments
+
+002 (43).jpg:
+  1: people playing with an frisbee in a public park
+  2: a group of people on grass with trees
+  3: three people with their hands in the air
+
+002 (44).jpg:
+  1: a woman on a bike with an adult looking at her
+  2: a woman riding a bike while three people watch
+  3: a group of people stand around a child on a bike
+
+002 (45).jpg:
+  1: the man with the child on a boat dock
+  2: man and young boy standing on dock with open arms
+  3: two people in stripped shirts and blue shorts are standing on the dock
+
+002 (46).jpg:
+  1: a family laying on the grass smiling
+  2: a group of people laying on the ground next to each other
+  3: a family lying on the grass in the park
+
+002 (47).jpg:
+  1: an older woman holding her baby next to an older man and baby
+  2: an older couple and young child sitting on an outdoor bench
+  3: two adults, one baby and an older man
+
+002 (48).jpg:
+  1: a woman that is touching her arm with another man
+  2: a man and a woman hug each other while posing for the camera
+  3: the couple is standing by each other outdoors
+
+002 (49).jpg:
+  1: five women sitting and standing around a room
+  2: a group of people sitting on top of a brown couch
+  3: a group of women celebrating a birthday party with cake, balloon and balloons
+
+002 (5).jpg:
+  1: a group of men standing on the street talking to each other
+  2: a group of men standing next to each other on a street
+  3: four men on a city street talking
+
+002 (50).jpg:
+  1: two girls holding presents with a boy standing behind
+  2: three people are holding present boxes in front of confetti cannons
+  3: three women smiling and talking while confetti falls over them
+
+002 (51).jpg:
+  1: two women with pink bags under confetti
+  2: two women are laughing with the room decorated in gold confetti
+  3: a couple of women standing next to each other on top of a floor
+
+002 (52).jpg:
+  1: a group of girls holding cups, cake and cups
+  2: three women holding up cups and a cake
+  3: a woman holding a cake with candles in it
+
+002 (53).jpg:
+  1: the couple is cuddling on their hands
+  2: a man hugging his beautiful girlfriend and a woman
+  3: a young couple is standing in a park
+
+002 (54).jpg:
+  1: a woman, man and two children holding on to a brown horse
+  2: a woman with her son and a horse beside a fence
+  3: a family stands near a wooden fence with a horse
+
+002 (55).jpg:
+  1: a family poses for their portrait in front of a fireplace
+  2: there is a man and woman with two small children
+  3: three people standing on a mantle with their baby
+
+002 (56).jpg:
+  1: the family is all smiles together as they sit on the couch
+  2: a family sits on a couch and looks at the camera
+  3: a man and woman sit on the couch with their two babies
+
+002 (57).jpg:
+  1: a group of people on top of a hill
+  2: two men and two women standing on top of a mountain
+  3: three people on a mountain holding their arms up
+
+002 (58).jpg:
+  1: a group of people sitting on the grass next to two small dogs
+  2: five friends with their dog talking in a park
+  3: people sit on the grass in the forest with two dogs
+
+002 (59).jpg:
+  1: some girls standing by the water and having fun
+  2: three women standing next to each other and laughing
+  3: two woman and two man on a boardwalk
+
+002 (6).jpg:
+  1: a woman and man and two children preparing food
+  2: a black woman standing in front of a man in the kitchen with a child
+  3: a family is gathered around the table and smiling
+
+002 (60).jpg:
+  1: two men standing on the beach pointing at the sunset
+  2: two people pointing their fingers to the horizon on a beach
+  3: two men standing on a beach with the sun setting in the background
+
+002 (61).jpg:
+  1: a group of people standing around a wooden table
+  2: a bunch of people sit around a picnic table
+  3: people are sitting at a picnic table together with wine and food
+
+002 (62).jpg:
+  1: the people are in the air on snow bank
+  2: three guys that are jumping in the air
+  3: a couple of guys jumping into the air on snow
+
+002 (63).jpg:
+  1: the man is showing off his peace sign
+  2: the man is smiling and showing two fingers
+  3: the young man is posing for the camera
+
+002 (64).jpg:
+  1: a man with a camera taking a picture
+  2: the man holds a camera and taking pictures
+  3: a person takes a photo with a camera in front of a mirror
+
+002 (65).jpg:
+  1: a woman is holding a plate of food and posing
+  2: a woman standing in a kitchen holding a glass
+  3: a woman making a selfie with her cellphone
+
+002 (66).jpg:
+  1: a woman looking into a mirror while standing next to a shelf
+  2: a woman is looking in the mirror and brushing her hair
+  3: a woman in white shirt looking at her reflection in a mirror
+
+002 (67).jpg:
+  1: woman taking selfie in modern apartment living area
+  2: a woman taking a selfie with her phone in front of an advertisement for the credit village clinic
+  3: woman taking selfie with smartphone phone in living room
+
+002 (68).jpg:
+  1: woman getting ready to get her makeup done
+  2: a woman in bath towels is cleaning her lips
+  3: woman with towel wrapped around her head looking into the mirror
+
+002 (69).jpg:
+  1: a girl in front of a mirror smiling at herself
+  2: a woman brushes her hair while she talks on her cell phone
+  3: a woman brushing her hair in the mirror
+
+002 (7).jpg:
+  1: a group of people in leather jackets walking down the street
+  2: a group of woman walk down a sidewalk with other people
+  3: a group of women standing next to each other
+
+002 (70).jpg:
+  1: there is a reflection in the mirror by a shelf
+  2: the mirror has a woman's reflection, book shelves and other items
+  3: there is a person taking a picture of themselves
+
+002 (71).jpg:
+  1: a woman taking a picture in a mirror
+  2: a woman taking a picture while sitting down
+  3: woman is taking a picture in the mirror
+
+002 (72).jpg:
+  1: a man taking a picture in front of a mirror
+  2: a man takes a picture of himself using his camera
+  3: a boy is taking a photo in the mirror
+
+002 (73).jpg:
+  1: a man trying on some clothing in front of a mirror
+  2: a man in a gold dress looking at himself
+  3: a man standing in front of a mirror
+
+002 (74).jpg:
+  1: a man takes a selfie in the mirror
+  2: a person taking a picture in a round mirror
+  3: a man taking a photo in a mirror
+
+002 (75).jpg:
+  1: a person taking a selfie in a mirror
+  2: a person standing in front of a mirror taking a picture
+  3: the person takes a picture of themselves in the mirror
+
+002 (76).jpg:
+  1: a man is taking a selfie while holding a camera
+  2: a man wearing a gas mask looks into the camera
+  3: a man in the process of recording a video
+
+002 (77).jpg:
+  1: man taking a photo of himself in a bathroom mirror
+  2: a man taking a photo of himself through a mirror
+  3: a man taking a selfie in a round mirror
+
+002 (78).jpg:
+  1: a man holding up an old camera with a camera case
+  2: a man taking a picture with a camera
+  3: a man that is holding a camera
+
+002 (79).jpg:
+  1: a woman is taking a picture in a bathroom mirror
+  2: the woman is taking a selfie with her mirror
+  3: a woman taking a photo in the mirror
+
+002 (8).jpg:
+  1: several women pose in a photo on the stairs
+  2: a group of young women posing in front of some stairs
+  3: group of girls posing together on stairs
+
+002 (80).jpg:
+  1: the girl is taking her picture in the mirror
+  2: a woman taking a photo of herself taking a photo
+  3: the reflection of a woman taking a picture in a mirror
+
+002 (81).jpg:
+  1: a man and woman taking a picture outside in the rain
+  2: a man and a woman taking a picture in front of a window
+  3: a man and woman taking photos of themselves in a window
+
+002 (82).jpg:
+  1: a man looking into the mirror of a building
+  2: a man holding a camera taking a picture
+  3: a person taking a picture with a camera
+
+002 (83).jpg:
+  1: the person is taking a photo with their phone
+  2: a person standing in front of a mirror taking a picture
+  3: a young woman takes a photo in a mirror
+
+002 (84).jpg:
+  1: person with camera taking photo of in front of computer monitor
+  2: a person takes a photo in the mirror while sitting at a desk
+  3: a person taking a picture of their reflection in the mirror
+
+002 (85).jpg:
+  1: a man holding a camera taking a photo in front of a golden mirror
+  2: an older man taking a picture in a mirror
+  3: the man is taking a picture in the mirror
+
+002 (86).jpg:
+  1: a woman taking a picture with her camera
+  2: a woman taking a photo with her camera
+  3: the woman is taking a photo with her camera
+
+002 (87).jpg:
+  1: a man holding up a camera takes a photo
+  2: a man taking a selfie in the mirror
+  3: the man is taking a photo of himself in the mirror
+
+002 (88).jpg:
+  1: woman in a red dress taking a photo of herself
+  2: there is a woman that is taking a selfie in the mirror
+  3: a woman holding up a camera in front of a mirror
+
+002 (89).jpg:
+  1: a man takes a picture of himself in a room with books on shelves
+  2: a man in a room has his phone on the mirror
+  3: a man takes a picture in a mirror
+
+002 (9).jpg:
+  1: three men standing close to each other with arms around their necks
+  2: four men are smiling as they pose together
+  3: a group of men are standing together
+
+002 (90).jpg:
+  1: a man holding a camera and standing in front of a mirror
+  2: the mirror is reflecting a person in it's reflection
+  3: the reflection of a person on the mirror of a tree
+
+002 (91).jpg:
+  1: a person holding up a camera in front of some plates
+  2: a man holding a camera near a mirror
+  3: a man taking a photo of himself in the mirror
+
+002 (92).jpg:
+  1: there is a girl that is taking a selfie in a mirror
+  2: a young woman smiles as she holds her camera in front of the mirror
+  3: a girl taking a picture in the mirror
+
+002 (93).jpg:
+  1: two people are taking a selfie in a bathroom mirror
+  2: a woman takes a selfie in the mirror
+  3: two people in a bathroom taking pictures of themselves
+
+002 (94).jpg:
+  1: a woman that is holding a camera in her hand
+  2: a woman with red hair takes a photo of herself with her camera
+  3: a woman is taking a selfie while holding up her camera
+
+002 (95).jpg:
+  1: a woman takes a photo with her camera in front of a mirror
+  2: a girl taking a photo in a mirror
+  3: the woman is taking a photo of herself holding a camera
+
+002 (96).jpg:
+  1: woman taking selfie with camera in mirror
+  2: a woman taking a photo in a mirror
+  3: a woman taking a photo of herself in the mirror
+
+002 (97).jpg:
+  1: the woman is taking a photo of herself in a mirror
+  2: a woman taking a picture with a camera
+  3: a woman is taking a picture with her camera
+
+002 (98).jpg:
+  1: a woman taking a picture of herself in the mirror
+  2: the man is taking a photo through a glass window
+  3: woman taking a photo in the reflection of a window
+
+002 (99).jpg:
+  1: a woman stands in front of a mirror, with her hands spread wide in the air
+  2: a woman with her arms outstretched, talking to another person in the background
+  3: woman in the kitchen wearing headphones while making a face
+

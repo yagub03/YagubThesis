@@ -1,0 +1,500 @@
+003 (1).jpg:
+  1: an old man sitting on a bench with his rosary in hand
+  2: an old man sitting in a row on the street holding a rosary
+  3: old men sit on benches with a rosary
+
+003 (10).jpg:
+  1: people are sitting in the street and protesting outside of a large building
+  2: a man holding a sign next to others on the street
+  3: a group of people in the street holding signs
+
+003 (100).jpg:
+  1: people at the side of the water enjoying the view
+  2: a lot of people on a hill near water
+  3: people sitting on the ground next to a river
+
+003 (11).jpg:
+  1: a crowd of people outside a building holding signs
+  2: crowd of people holding up signs on the street
+  3: several people protesting in front of a building with signs
+
+003 (12).jpg:
+  1: a large group of people are riding bikes on the road
+  2: several cyclists and spectators with the sesame street mascot
+  3: people riding bikes with some wearing animal costumes
+
+003 (13).jpg:
+  1: a large group of cyclists on a roadway with a sesame street in the background
+  2: the group of people are all wearing gear
+  3: a bunch of people that are riding bicycles in the street
+
+003 (14).jpg:
+  1: four people playing water polo in an indoor swimming pool
+  2: people playing in a pool with water polo
+  3: people on a water polo team in the pool with a ball
+
+003 (15).jpg:
+  1: several people are standing in a cage looking at a table
+  2: there are many people standing together behind the fence
+  3: four men stand in front of a fence as two women and one man stand near
+
+003 (16).jpg:
+  1: two men carrying large rainbow colored flags as a crowd watches
+  2: a man walking down the street with rainbow flags
+  3: a group of men holding large rainbow flags
+
+003 (17).jpg:
+  1: the young boys in orange are all holding up their arms
+  2: many children hold an orange and green flag
+  3: many children are playing in an open play yard
+
+003 (18).jpg:
+  1: two men wearing hats watch tennis as the crowd looks on
+  2: two men watch as the crowd watches
+  3: two men are watching a tennis match in the stadium
+
+003 (19).jpg:
+  1: three people are drinking in a bar, while one woman drinks wine
+  2: a group of people at a bar drinking beer
+  3: a couple at the bar drinking from their beers
+
+003 (2).jpg:
+  1: two football players with jerseys on in a field
+  2: a man holding a football bat standing next to another man
+  3: some people in uniform and helmets on field with a ball
+
+003 (20).jpg:
+  1: a small child on skis sliding down a snow covered slope
+  2: a small boy sledding down a snow covered hill
+  3: a boy laying in the snow, on a green sled
+
+003 (21).jpg:
+  1: a person holding a sign near a clock tower
+  2: a person holding up a sign at a public event
+  3: a person holding a sign that reads ukraine
+
+003 (22).jpg:
+  1: a group of people holding banners in front of buildings
+  2: many people are standing with placants and posters
+  3: a group of people holding signs, one has pictures on it
+
+003 (23).jpg:
+  1: a family playing frisbee in a park with their families
+  2: some people sitting in the grass and one man is looking at another child
+  3: a group of people standing next to a child on a park
+
+003 (24).jpg:
+  1: people at an outdoor event near banners and trees
+  2: a group of people walking around a party
+  3: an image of a crowd of people walking by a building
+
+003 (25).jpg:
+  1: many people are walking around outside with tents
+  2: a number of people at an outdoor event
+  3: there are people shopping at an outdoor market
+
+003 (26).jpg:
+  1: many people walking around an outdoor market area
+  2: many people walk around in the outdoor market
+  3: a crowded street with people and tents for sale
+
+003 (27).jpg:
+  1: four ladies sitting on trees near a group of people holding coffee
+  2: two people sitting on logs in the forest and drinking wine
+  3: a group of women with a dog in the woods
+
+003 (28).jpg:
+  1: people in a field watching something while holding cell phones
+  2: the people are having a lot of fun in the field
+  3: people gather for a gathering in the park
+
+003 (29).jpg:
+  1: group of people drinking in restaurant with green walls
+  2: some people are sitting at a long table
+  3: group of people at a table eating food in a restaurant
+
+003 (3).jpg:
+  1: the football team runs onto the field during the game
+  2: people playing with football on a field near trees
+  3: several football players in the dark getting ready to kick a ball
+
+003 (30).jpg:
+  1: a horse and rider jumping an obstacle in front of large clocks
+  2: a person on a horse is jumping over a barrier
+  3: horse jumping over fence on short grass field
+
+003 (31).jpg:
+  1: a security officer is directing people out on the street
+  2: police walk on the sidewalk while others walk by
+  3: a security guard walking down the sidewalk near many people
+
+003 (32).jpg:
+  1: the girls play soccer on the soccer field
+  2: a group of girls playing soccer on a green field
+  3: several girls on a soccer field with an approaching ball
+
+003 (33).jpg:
+  1: the group of young men are playing hockey together
+  2: an image of the hockey teams in action
+  3: two hockey players on their knees trying to pull the puck
+
+003 (34).jpg:
+  1: three female tennis players holding their rackets above their head
+  2: a group of female tennis players pose with their rackets
+  3: three female tennis players in sports gear holding up rackets
+
+003 (35).jpg:
+  1: a group of friends are sitting on a wall, one is wearing a blue shirt
+  2: people sitting outside wearing jeans and smiling
+  3: five smiling adults posing for a picture
+
+003 (36).jpg:
+  1: two women at the counter taking a selfie
+  2: two women sit at a bar, taking photos with their phones
+  3: two women sitting at a bar, one is taking a selfie
+
+003 (37).jpg:
+  1: the crowd of people is enjoying their time together
+  2: a group of people at a concert with arms in the air
+  3: a crowd of people with one man screaming
+
+003 (38).jpg:
+  1: the crowd of people are standing up to raise their hands
+  2: a crowd of people at a concert with arms in the air
+  3: group of men standing in front of a crowd waving their hands
+
+003 (39).jpg:
+  1: people are riding the subway and using their cell phones
+  2: many people are riding a subway train with buildings in the background
+  3: a bunch of people are riding the train together
+
+003 (4).jpg:
+  1: a woman standing by some tables by the water
+  2: a woman standing near the water near tables
+  3: the woman is walking near the water's edge
+
+003 (40).jpg:
+  1: people holding signs stand in front of a red building
+  2: a man in glasses and red shirt standing outside
+  3: a guy on the street holding up some balloons
+
+003 (41).jpg:
+  1: a large group of people are standing around several white flamingos
+  2: some people and a bunch of flamingos sitting together
+  3: a group of people and several flamingoes behind a fence
+
+003 (42).jpg:
+  1: man boxing with another person behind him at the gym
+  2: a man who is kicking another man with a kick
+  3: two fighters in a boxing ring, one with boxing gloves on
+
+003 (43).jpg:
+  1: two women are in costume with costumes and hats
+  2: a group of people dressed in costume and carnival makeup
+  3: a woman in a clown - like outfit smiles for the camera
+
+003 (44).jpg:
+  1: two women eating pizza in a restaurant
+  2: a couple of women are sitting at a table eating pizza
+  3: women sitting at an outdoor restaurant eating a piece of pizza
+
+003 (45).jpg:
+  1: a crowd of people standing near each other and a large clock tower
+  2: several people at a protest with balloons floating in the air
+  3: group of people standing in front of a building with balloons
+
+003 (46).jpg:
+  1: the parade is taking place on a busy road
+  2: many people dressed in orange are marching with red flags
+  3: a group of people are walking with the flag of turkey
+
+003 (47).jpg:
+  1: a man on a horse holding a flag
+  2: the people are dressed in turkish attire on horses
+  3: a man rides on top of a horse with a red flag
+
+003 (48).jpg:
+  1: a large crowd is watching a soccer match
+  2: the yellow and black soccer fans are cheering
+  3: a stadium full of people cheering for the soccer game
+
+003 (49).jpg:
+  1: a crowd of people who are sitting on mat
+  2: group of people doing yoga in a park
+  3: there are many people doing yoga outside together
+
+003 (5).jpg:
+  1: crowds are seen taking pictures of the painting
+  2: a crowd of people outside a museum taking pictures
+  3: a crowd of people standing next to a painting
+
+003 (50).jpg:
+  1: the man does an acrobatic hand stand in the middle of the street
+  2: two men doing tricks on street near buildings
+  3: two men are doing handstand on a street
+
+003 (51).jpg:
+  1: there are many people standing in front of a stage
+  2: there are people standing on stage and cheering
+  3: people stand in front of an audience as two men lead the church
+
+003 (52).jpg:
+  1: two ladies wearing oriental kimonos walk along the street
+  2: people are wearing kimonos on a narrow street
+  3: some pretty women in japanese kimono standing next to each other
+
+003 (53).jpg:
+  1: a group of people at an airport with luggage carts
+  2: people wait in line for luggage at an airport
+  3: large group of people standing in line near luggage carts
+
+003 (54).jpg:
+  1: a man and a woman sitting at a table with wine glasses
+  2: the man and woman smile at each other in front of their dinner table
+  3: a couple are smiling for the camera at a dinner table
+
+003 (55).jpg:
+  1: two people holding their phones near a pile of boxes with food
+  2: a man and woman are standing in front of boxes
+  3: the couple is having a discussion in an open box
+
+003 (56).jpg:
+  1: people sitting around a merry go round carousel in an amusement park
+  2: people sitting in the shade of a merry go round
+  3: there is an old fashioned carousel at the amusement
+
+003 (57).jpg:
+  1: a group of soccer players on a field playing a game
+  2: a soccer team running to kick the ball on a field
+  3: several players on the field playing a game of soccer
+
+003 (58).jpg:
+  1: the men are standing up next to the door in the train
+  2: a group of people standing next to each other
+  3: a group of people stand next to an open train door
+
+003 (59).jpg:
+  1: a group of football players wearing helmets and holding footballs
+  2: players in uniform and helmets, one holding a football
+  3: the football players on the field are preparing to take the ball out
+
+003 (6).jpg:
+  1: a group of people siting in small tables at night
+  2: a busy dining area with tables and people
+  3: a group of people sitting at tables in a bar
+
+003 (60).jpg:
+  1: a group of people sitting at a table with beers
+  2: three men toast in a bar
+  3: two guys celebrating with beers in a restaurant
+
+003 (61).jpg:
+  1: people gather in the city in the rain
+  2: a man wearing a brown jacket holding up an umbrella
+  3: a crowd of people with umbrellas gathered around and holding phones
+
+003 (62).jpg:
+  1: a man that is walking down a street with a drum
+  2: a man holding a large drum walking down a street
+  3: a person is carrying an object and walking through a crowd
+
+003 (63).jpg:
+  1: a person in a boat sitting on the shore of a lake
+  2: a woman sitting in a kayak while kayaking through the water
+  3: the person is sitting on a canoe in the water
+
+003 (64).jpg:
+  1: an audience of people are clapping and applauding
+  2: the president of the people's party of kenya, in a concert in the middle of a crowd, clap hands to the audience
+  3: people in the audience with one waving and clapping
+
+003 (65).jpg:
+  1: there are many young people wearing colorful dresses
+  2: two kids are dressed in traditional spanish clothing
+  3: two young girls dressed in colorful mexican attire posing
+
+003 (66).jpg:
+  1: a group of people standing on top of a grass covered field
+  2: a large group of people standing on top of a field
+  3: the people are holding signs that read'stop smoking '
+
+003 (67).jpg:
+  1: several people standing on the side of a parking lot
+  2: a group of people standing in a parking lot
+  3: a group of people that are standing in a parking lot
+
+003 (68).jpg:
+  1: a band playing brass instruments in a parking lot
+  2: a group of people playing instruments and standing around
+  3: a bunch of men standing around with musical instruments
+
+003 (69).jpg:
+  1: group of young people standing on a beach with their legs hanging out in the sand
+  2: four young people on the beach posing for a picture
+  3: the group of people is walking together on the beach
+
+003 (7).jpg:
+  1: there is a man that has thrown the baseball
+  2: batter getting ready to hit the ball with his bat
+  3: a man holding a baseball bat on top of a field
+
+003 (70).jpg:
+  1: four people sitting around a fire on the beach
+  2: a group of people sitting around a fire pit
+  3: a group of people are sitting around a fire pit
+
+003 (71).jpg:
+  1: a group of friends are sitting in a hammock and playing guitar
+  2: a group of people sitting around a tent playing guitar
+  3: group of friends relaxing around campfire and playing music together
+
+003 (72).jpg:
+  1: several people sit at wooden tables around the television
+  2: there are a lot of people eating together in this dining room
+  3: a restaurant with people sitting at tables and a big screen tv
+
+003 (73).jpg:
+  1: a group of young ladies doing exercise with fitness clothes
+  2: there are two women with exercise ropes and a yoga mat
+  3: a woman with pink shorts is using a resistance band
+
+003 (74).jpg:
+  1: a basketball player running up the court with a basketball
+  2: a man dribbling the basketball ball in a gymnasium
+  3: a man dribbling a basketball while playing in a gym
+
+003 (75).jpg:
+  1: a group of cyclists riding along a street
+  2: several men are racing on bicycles in a group
+  3: a group of cyclists competing in an event
+
+003 (76).jpg:
+  1: group of young women in costumes reading by candlelight
+  2: a group of young people dressed in brightly colored costumes sitting on a couch
+  3: a group of women are dressed in colorful outfits
+
+003 (77).jpg:
+  1: three men pose for a photo, each with a medal and a basketball
+  2: three men posing for a photo with their awards
+  3: three young men holding trophies pose with their basketball
+
+003 (78).jpg:
+  1: a group of people standing on top of grass
+  2: a group of friends jumps in the air for a group photo
+  3: group of young people are jumping in the air
+
+003 (79).jpg:
+  1: a young girl holding a basketball with a shadow on the floor
+  2: a young girl is playing with a basketball ball
+  3: a young girl holds onto the basketball during a game
+
+003 (8).jpg:
+  1: an old lady getting a tattoo from her younger sister
+  2: the woman is helping the man with his scissors
+  3: a woman getting a high vacciure from a doctor
+
+003 (80).jpg:
+  1: the man and woman are dancing in elaborate costumes
+  2: two dancers with colorful clothes and large umbrellas
+  3: a man and woman dressed in mexican costume
+
+003 (81).jpg:
+  1: a man wearing sunglasses running down a street
+  2: man wearing sunglasses and running in the street
+  3: the man is running in the street wearing a yellow top
+
+003 (82).jpg:
+  1: a woman is running in a marathon and raising her arms in the air
+  2: a woman in shorts and shirt running on street
+  3: a woman running down the street with other people running behind her
+
+003 (83).jpg:
+  1: many people smeared in brightly colored paint and waving
+  2: people are playing in the colorful powder of a festival
+  3: the crowd of people is all painted in colors
+
+003 (84).jpg:
+  1: a man is carrying many bags on the beach
+  2: an old man is carrying many items down a hill
+  3: a person with a bucket on top of a dirt hill
+
+003 (85).jpg:
+  1: a pair of women standing on top of a snow covered slope
+  2: two women dressed in black and white pose on their skis
+  3: two people on skis with their arms in the air
+
+003 (86).jpg:
+  1: the people are outside eating and drinking from their cups
+  2: a couple sitting at a table next to a red food truck
+  3: the two people are sitting at the table outside
+
+003 (87).jpg:
+  1: the people are sitting outside on the street with coffee
+  2: two people sit outside drinking coffee and taking a selfie
+  3: two people sitting at a table with drinks
+
+003 (88).jpg:
+  1: there is a man that is playing with the basketball hoop
+  2: young man jumping to make an amazing slam at a basketball hoop
+  3: a man in blue shorts playing basketball with his shirt off
+
+003 (89).jpg:
+  1: a man kneeling down to get his foot on the ground
+  2: a father helps his child sit on the ground
+  3: a man bending over to pick up a soccer ball
+
+003 (9).jpg:
+  1: a man with no shirt in a boxing ring
+  2: a man is holding a microphone while standing next to another man in a boxing ring
+  3: an individual with a very muscular body
+
+003 (90).jpg:
+  1: people sitting at a table eating food outside
+  2: the group of people sit and eat together
+  3: group of people eating food and drinking drinks
+
+003 (91).jpg:
+  1: people are standing on a court and playing with ball
+  2: two men on a court with an outside area
+  3: people playing beach volleyball on a court with spectators and buildings in the background
+
+003 (92).jpg:
+  1: a group of bicyclists ride down a country road
+  2: some racers are riding bikes down a road
+  3: several people on bikes are riding in the same direction
+
+003 (93).jpg:
+  1: a bunch of people riding bikes in the road
+  2: a large group of men riding on bikes down the street
+  3: a group of cyclists are racing down the road
+
+003 (94).jpg:
+  1: a woman carrying boxes and bags down a street
+  2: people on a street carrying baskets full of food
+  3: several women in thai garb carrying baskets over their head
+
+003 (95).jpg:
+  1: two people sitting down drinking from wine bottles
+  2: two boys sitting outside having a meal and drinking beer
+  3: two men sit at an outdoor table outside a cafe
+
+003 (96).jpg:
+  1: a man in a business suit on the phone with a laptop and a cellphone
+  2: a man in a suit stands near another person in a mask
+  3: the man is talking on his cell phone at the table
+
+003 (97).jpg:
+  1: there is a male skier flying through the air
+  2: a person jumping in the air with skis
+  3: the person is skiing off a snowy hill
+
+003 (98).jpg:
+  1: a man that is standing up in the grass with a kite
+  2: a man is flying a kite in front of some tents
+  3: the man flies a kite in an outdoor area
+
+003 (99).jpg:
+  1: a woman holds a fork to eat salad
+  2: a woman sitting at a table eating salad
+  3: a woman is eating a salad in front of the window
+

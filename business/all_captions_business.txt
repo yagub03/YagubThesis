@@ -1,0 +1,500 @@
+001 (1).jpg:
+  1: four people in the room with the windows phone on the wall
+  2: people sitting around a table with a video screen behind them
+  3: people are sitting around a table and eating
+
+001 (10).jpg:
+  1: an office with people at work looking at computers
+  2: a group of people sitting in an office with several tables and chairs
+  3: office area with tables and several people working
+
+001 (100).jpg:
+  1: a woman sitting at a computer desk in a room
+  2: a table and chairs in an office with two computers
+  3: someone sitting at their desk in a small room
+
+001 (11).jpg:
+  1: people on their computers on the couch in a room
+  2: some guys sitting around a couch with laptops
+  3: men in white sitting around with laptops
+
+001 (12).jpg:
+  1: the man is sitting on the couch reading
+  2: the man is sitting on a couch reading a newspaper
+  3: the man is reading on the couch while watching
+
+001 (13).jpg:
+  1: a man is sitting down and talking on a phone
+  2: a man is sitting in a restaurant on his cell phone
+  3: man sitting at table talking on cell phone while looking out window
+
+001 (14).jpg:
+  1: two men sitting on a couch near a window looking at a map
+  2: two men sit on a couch with map on a table
+  3: two people sit on a couch with a table
+
+001 (15).jpg:
+  1: some people are sitting around a conference table
+  2: a man holding a microphone speaking to a group of people
+  3: a man is speaking to a crowd at a conference
+
+001 (16).jpg:
+  1: people sitting around in a room with computers
+  2: a man standing next to an audience in front of a projection screen
+  3: man giving presentation in front of a group of people
+
+001 (17).jpg:
+  1: two men and three women sitting on blue couches with a white board in front of them
+  2: some men are in a conference room discussing something on a flipchart
+  3: a group of people sit on blue chairs while looking at a white board
+
+001 (18).jpg:
+  1: a group of men sitting around with laptops
+  2: five men sitting and talking in an office space
+  3: five people talking in an office setting with brick walls and windows
+
+001 (19).jpg:
+  1: three women are sitting at a wooden table talking
+  2: a group of people smiling around a table with laptops
+  3: three woman sitting at a table smiling
+
+001 (2).jpg:
+  1: a room filled with people and sitting at desks
+  2: some students are at their computers in a very big room
+  3: there are many people sitting at desks using computers
+
+001 (20).jpg:
+  1: two women sitting together at a wooden desk in front of a laptop computer
+  2: two women are sitting at a counter looking at something on a laptop
+  3: two young ladies look at a laptop screen
+
+001 (21).jpg:
+  1: a man sitting on the floor holding a laptop
+  2: man using a laptop computer sitting in a library
+  3: a man sits by the windows while using his phone
+
+001 (22).jpg:
+  1: a group of people are seated around a conference table
+  2: a group of people sitting around a table with laptops
+  3: a group of people sitting around a conference table talking
+
+001 (23).jpg:
+  1: a group of people sitting around a table watching laptops
+  2: a group of people sitting around a conference table
+  3: people sitting around a conference table with laptops on it
+
+001 (24).jpg:
+  1: people sitting around each other at a table looking at laptop computers
+  2: three women sitting next to each other working on laptops
+  3: a group of people sitting around tables using computers
+
+001 (25).jpg:
+  1: a woman walking down an office hallway while carrying her notebook
+  2: a woman walking in a room while holding a book
+  3: woman with laptop walking down empty hallway
+
+001 (26).jpg:
+  1: a large group of people sitting around a white table
+  2: a group of people seated on the floor watching two people speak
+  3: people in a room seated around tables
+
+001 (27).jpg:
+  1: the girl is sitting on the couch with her laptop
+  2: a woman on a couch holding a laptop
+  3: a woman on the couch using her laptop
+
+001 (28).jpg:
+  1: a woman pointing to something on a large white board
+  2: a group of people standing around a computer screen
+  3: a woman presenting something to two men in a business meeting
+
+001 (29).jpg:
+  1: a woman pointing on sticky notes on the wall
+  2: the people are working together with many colorful sticky notes
+  3: a group of people sitting around tables with laptops
+
+001 (3).jpg:
+  1: two people sit at a conference table and one looks into a tablet
+  2: a woman and man sitting at a table talking together
+  3: two women sitting at a table in a room
+
+001 (30).jpg:
+  1: a group of people standing next to each other
+  2: a man and woman in front of a white board
+  3: two people are writing diagrams on the board
+
+001 (31).jpg:
+  1: three people sitting at a table with laptops
+  2: four people sitting at a wooden table with laptops and papers on it
+  3: people in a meeting having coffee and working on laptops
+
+001 (32).jpg:
+  1: a man talking to another man sitting in front of a laptop computer
+  2: a man on a laptop next to another man at a table
+  3: a man giving the finger up in front of a laptop computer
+
+001 (33).jpg:
+  1: a man on a laptop at a wooden desk
+  2: a man sitting at a table using his laptop
+  3: two people on laptops look at the screen
+
+001 (34).jpg:
+  1: a young lady is sitting at her desk working on a computer
+  2: a woman on a laptop sits in front of the window
+  3: a woman working on her laptop by a table
+
+001 (35).jpg:
+  1: a woman in a black top standing behind a crowd
+  2: a group of people sitting on a bench in a room
+  3: a large group of people sitting on couches watching something
+
+001 (36).jpg:
+  1: several men sit around desks with laptop computers
+  2: a group of men sitting around tables working on laptops
+  3: three men are sitting at a large table working on laptops
+
+001 (37).jpg:
+  1: people sitting at tables with the man presenting to them
+  2: a meeting with people looking at a screen
+  3: group of people sitting around a long table
+
+001 (38).jpg:
+  1: a man in a blue shirt holding a microphone
+  2: a man that is standing up holding a microphone
+  3: a person is standing and giving a speech
+
+001 (39).jpg:
+  1: a man stands in front of several clocks and a microphone
+  2: a man stands talking to a crowd and holds a microphone in one hand and watches the others
+  3: a man holding a microphone and looking at something
+
+001 (4).jpg:
+  1: a group of people looking at a phone screen
+  2: a group of people at a wooden table
+  3: a group of three people sitting at a table together
+
+001 (40).jpg:
+  1: a group of people that are sitting next to a laptop
+  2: four people smile at a computer screen as they look at it
+  3: a group of four young people smile at a laptop screen
+
+001 (41).jpg:
+  1: a couple of people that are in an office
+  2: three young people in a computer lab with one man using his computer
+  3: a man and a woman work together in an office with people looking at computers
+
+001 (42).jpg:
+  1: a man sitting at a table with a woman and holding glasses
+  2: two people talking with one drinking wine on the table
+  3: a couple siting at a restaurant table drinking wine
+
+001 (43).jpg:
+  1: people watching a man in a room who is playing video games
+  2: people sitting in a room with one woman looking at her phone
+  3: a group of people sit together in the living room
+
+001 (44).jpg:
+  1: a group of people sitting around and standing
+  2: a large group of people watching television in a room
+  3: a group of people watching something on their phones
+
+001 (45).jpg:
+  1: a group of people sitting at tables watching something
+  2: there is a woman giving a presentation to an audience
+  3: a woman standing at a podium in a room full of people
+
+001 (46).jpg:
+  1: group of young people using laptop computers by a window
+  2: group of people around a table, on their laptops
+  3: group of young people working on their laptop computer
+
+001 (47).jpg:
+  1: a man and woman in a conference room having their interview with someone
+  2: a woman at a table with two men
+  3: a group of people in a meeting room
+
+001 (48).jpg:
+  1: three women and a man around a wooden table
+  2: a group of people standing around a table and looking at a book
+  3: three women standing over a table looking at paperwork
+
+001 (49).jpg:
+  1: a man and a woman are sitting on chairs with their laptops
+  2: a woman sitting in a chair while looking at her laptop
+  3: two people sitting in chairs while looking at a laptop
+
+001 (5).jpg:
+  1: a person with long hair using a laptop
+  2: a woman sitting at her desk with her laptop
+  3: a woman sitting at a table with a laptop on her lap
+
+001 (50).jpg:
+  1: a group of people sitting at a long table
+  2: three people at a table with computers
+  3: business meeting around a table with people sitting at it
+
+001 (51).jpg:
+  1: two women sitting at a table talking to each other
+  2: two woman sit at a desk in front of papers
+  3: two women sitting at a table talking to each other
+
+001 (52).jpg:
+  1: the woman is sitting at the table using her laptop
+  2: a young lady is using a laptop while sitting at a table
+  3: a woman is looking at a laptop computer
+
+001 (53).jpg:
+  1: several people sitting around a wooden table in an office setting
+  2: a group of people are sitting at a wooden table with laptops
+  3: a group of women sitting around a table in a room
+
+001 (54).jpg:
+  1: a group of people in an office meeting
+  2: a group of people sitting around a table
+  3: women sitting around a conference table talking and having fun on laptops
+
+001 (55).jpg:
+  1: people sitting at a table working on their laptops
+  2: the people are sitting around a wooden table and discussing
+  3: the group of people are working in the conference room
+
+001 (56).jpg:
+  1: two women standing by the glass on the wall in front of them
+  2: two young women standing near a dry erase board in an office
+  3: a couple of women standing next to each other
+
+001 (57).jpg:
+  1: two woman sitting at a table in a room
+  2: two women are sitting at a table writing on notepads
+  3: two women are talking and working at an office
+
+001 (58).jpg:
+  1: the women are working together in an office meeting room
+  2: a woman giving a talk to group of people around a table
+  3: a woman in a business meeting room teaching her colleagues
+
+001 (59).jpg:
+  1: there are three people at the table shaking hands
+  2: a group of business people in an office meeting
+  3: a group of people are seated around a table together
+
+001 (6).jpg:
+  1: several people sitting around a table working on laptops
+  2: four men sitting at a table on their laptops
+  3: five people sitting at a table with laptops on their desk
+
+001 (60).jpg:
+  1: two businesswomeal shaking hands over a meeting table
+  2: three business people shaking hands over a laptop computer
+  3: a group of people sit around a table in an office
+
+001 (61).jpg:
+  1: three people are sitting in a circle with a laptop and two other people are talking to a woman
+  2: a group of people seated around talking in an office
+  3: two people are sitting in leather chairs, while a woman stands at the front of a large projection screen
+
+001 (62).jpg:
+  1: two men and women walking through a lobby
+  2: two people talking while standing next to each other
+  3: a man and a woman standing in a building
+
+001 (63).jpg:
+  1: five people gathered around a desk in front of a laptop
+  2: three guys and one girl standing at a table with laptops
+  3: three people pose for a picture while a man smiles at his laptop
+
+001 (64).jpg:
+  1: three people standing in line at a table while a man holds a tablet
+  2: many people in a large office looking at some papers
+  3: several people looking at a tablet in an office
+
+001 (65).jpg:
+  1: a group of people are around a table with laptops
+  2: many people are at the dining table with computers
+  3: group of people sitting around table with their laptops
+
+001 (66).jpg:
+  1: there are some people sitting at a table and one is showing a laptop
+  2: group of business people sitting around table in meeting
+  3: a group of people sitting around a table with laptops
+
+001 (67).jpg:
+  1: a group of people sitting around a wooden table
+  2: a group of people sitting around a table shaking hands
+  3: three people shaking hands in front of a large group of people
+
+001 (68).jpg:
+  1: people sitting at a table and having discussion in a boardroom
+  2: some people in a conference room having an event
+  3: a group of people in a room with a desk and wall mounted calendar
+
+001 (69).jpg:
+  1: a group of people sitting around a wooden table with laptops
+  2: a group of women sitting at a table together
+  3: four women sitting at a table with their laptops
+
+001 (7).jpg:
+  1: the people are at the dining table with computers
+  2: three people using laptops while sitting at the table
+  3: a group of people sitting at a wooden table working on laptop computers
+
+001 (70).jpg:
+  1: a group of young people sitting around a wooden table using laptop computers
+  2: a group of people around a table discussing
+  3: five people in a meeting room with laptops
+
+001 (71).jpg:
+  1: five people standing in a circle putting their hands together
+  2: many people standing around each other holding their hands
+  3: a group of people standing in a circle touching their hands
+
+001 (72).jpg:
+  1: the group of people are at the long table in the office
+  2: a group of people seated at a table
+  3: a group of people sitting around a table
+
+001 (73).jpg:
+  1: many people are high five and reaching to reach their hands
+  2: several people reaching up at table with a laptop
+  3: several people are high five at a conference
+
+001 (74).jpg:
+  1: a man and woman at a desk looking at a computer screen
+  2: two people sitting at a table having conversation
+  3: two people sitting at a desk looking at a computer screen
+
+001 (75).jpg:
+  1: four women in a conference room with two laptops
+  2: some people sit around a table using their laptops
+  3: four people sitting at a table using their laptops
+
+001 (76).jpg:
+  1: group of people sitting at a table working on laptops
+  2: a group of people are looking at laptops
+  3: a group of people sitting around a wooden table
+
+001 (77).jpg:
+  1: many people in an office with their laptops
+  2: a group of people sit around a table using laptops
+  3: group of young people sitting around desk looking at their computers
+
+001 (78).jpg:
+  1: a woman sits on a couch, next to two woman, and one holding a laptop
+  2: two woman with laptops sitting on a yellow couch
+  3: four business ladies sitting in a modern office together
+
+001 (79).jpg:
+  1: a man and women sitting at table working on laptop computers
+  2: two women and man sitting together on laptop computers
+  3: several people are around a table looking at laptop computers
+
+001 (8).jpg:
+  1: group of people looking at cell phones together in a small room
+  2: people sit in the middle of a crowded room with many different color blocks
+  3: a group of people standing around and sitting on benches
+
+001 (80).jpg:
+  1: two young men sitting at a desk having conversation
+  2: two men sitting at a table with computers
+  3: two people sit at a table in a meeting room
+
+001 (81).jpg:
+  1: two women are giving each other a high five
+  2: three women giving high five to each other
+  3: three young women in business attire are shaking hands
+
+001 (82).jpg:
+  1: a beautiful woman sitting in front of a desk holding papers
+  2: a woman is sitting at a desk reading a letter
+  3: a woman sitting at a desk with her laptop and papers
+
+001 (83).jpg:
+  1: three black women sitting on the couch next to each other
+  2: three black woman sit on a couch near one another
+  3: three women are sitting on a couch with laptop computers
+
+001 (84).jpg:
+  1: three people sitting at a desk with papers and computers
+  2: two people work on blueprints with laptops at a large table
+  3: an overhead view of people in office working
+
+001 (85).jpg:
+  1: people gather around a table to use their computer
+  2: several people are gathered around a small table
+  3: women sitting around a wooden table with writing and papers
+
+001 (86).jpg:
+  1: a group of people standing around a table with laptops
+  2: three people standing behind a man at a table using a laptop computer
+  3: an image of people that are in a meeting
+
+001 (87).jpg:
+  1: a woman and three other people gathered around a wooden table
+  2: three people are gathered around a table in an office setting
+  3: three people in an office setting
+
+001 (88).jpg:
+  1: a woman sitting at a table with a laptop computer
+  2: a woman sitting at a table with a laptop on top of it
+  3: two women are looking at a laptop screen
+
+001 (89).jpg:
+  1: a woman and man sitting next to each other in a chair
+  2: two people sitting around a wooden table using laptop computers
+  3: two people are seated at a table looking at a computer
+
+001 (9).jpg:
+  1: a group of people sitting next to each other
+  2: people are standing and sitting in chairs in an auditorium watching an audience
+  3: a crowd watches a man talk to a group
+
+001 (90).jpg:
+  1: two men and women sitting at a table with coffee, notebooks and laptop computers
+  2: a man and woman working on their laptops at an office
+  3: a woman and a man sitting at a table with laptops
+
+001 (91).jpg:
+  1: two men and a woman are sitting at the desks, while two women are working on their laptops
+  2: three people in a meeting area using laptops
+  3: three people sitting at desk looking down
+
+001 (92).jpg:
+  1: two men sitting on chairs with laptops in their lap tops
+  2: the man smiles at another person on his laptop
+  3: two men in chair talking with each other
+
+001 (93).jpg:
+  1: a man waves as he stands on stage with a cane
+  2: a man standing on stage giving the number one
+  3: the man is talking on the stage with his hand up
+
+001 (94).jpg:
+  1: a man standing on a stage while holding something
+  2: a man with an ipad stands on stage
+  3: a man stands in front of a curtain and looks at his cell phone
+
+001 (95).jpg:
+  1: a crowd of people sit in rows listening to one another
+  2: a room full of men with people sitting and standing at the front
+  3: people sitting in a row watching a presentation
+
+001 (96).jpg:
+  1: a couple are talking to other people in a restaurant
+  2: several people are sitting around the table in an open kitchen
+  3: many people seated around a table having drinks
+
+001 (97).jpg:
+  1: the woman in front is presenting her presentation on large screen
+  2: two women at the same table in front of a giant screen
+  3: the woman is presenting the presentation at the event
+
+001 (98).jpg:
+  1: two guys sit at computers in front of each other
+  2: two people working on computers on a desk
+  3: two men working on their laptop computers at the same desk
+
+001 (99).jpg:
+  1: a couple of people are smiling and talking on the same screen
+  2: two men and a woman on video chatting
+  3: a man and woman laughing on their own video chat
+
