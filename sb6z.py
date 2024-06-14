@@ -2,7 +2,7 @@ import openai
 import os
 
 # Set your OpenAI API key
-openai.api_key = "sk-proj-ZSyHVcavqVeBGtYJ8mrRT3BlbkFJr6kb5IvmOYcMrI8eLYEb"
+openai.api_key = "api-key"
 
 # Function to read tags and captions from text files
 def read_file(file_path):
@@ -10,8 +10,8 @@ def read_file(file_path):
         return file.readlines()
 
 # Read tags and captions
-tags = read_file('C:/Users/yagub/Desktop/wd14-tagger-standalone/social/all_tags.txt')
-captions = read_file('C:/Users/yagub/Desktop/wd14-tagger-standalone/social/all_captions.txt')
+tags = read_file('---')
+captions = read_file('---')
 
 # Combine tags and captions into a dictionary
 image_data = {}
@@ -78,7 +78,7 @@ for img_name, data in image_data.items():
         results[img_name] = category
 
 # Write results to a text file
-output_file_path = 'C:/Users/yagub/Desktop/wd14-tagger-standalone/social/classification_results.txt'
+output_file_path = '---'
 with open(output_file_path, 'w') as output_file:
     for img_name, category in results.items():
         output_file.write(f"Image: {img_name}, Category: {category}\n")
