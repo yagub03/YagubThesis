@@ -7,9 +7,10 @@ The aim of this project is to test if pre-trained LLMs (ChatGPT) can be used for
 Clone the repository by using git clone https://github.com/yagub03/YagubThesis.git command and then cd YagubThesis
 
 ## How to run our project:
-## Captioning: Open captioing.ipynb
+## Captioning: 
+Open captioing.ipynb
 We ned to add folder where our image data is and then also choose where we want our .txt file result. After this we can run our code in Jupyter notebook
-## Tagging: Open run.py 
+## Tagging: 
 For running: pip install -r requirements.txt
 single file
 
