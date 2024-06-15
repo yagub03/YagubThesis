@@ -1,5 +1,7 @@
-
 # Image context analysis for use in social media
+## Introduction
+The aim of this project is to test if pre-trained LLMs (ChatGPT) can be used for imaging context categorisation based on image captions and tags. The role of LLM is to decide if the image belongs to one of the following categories: personal, social, professional.
+
 ## Prequisite: 
 
 Clone the repository by using git clone https://github.com/yagub03/YagubThesis.git command and then cd YagubThesis
