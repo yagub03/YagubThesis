@@ -1,32 +1,50 @@
-# Image context analysis for use in social media
+
+# Image Context Analysis for Use in Social Media
+
 ## Introduction
-The aim of this project is to test if pre-trained LLMs (ChatGPT) can be used for imaging context categorisation based on image captions and tags. The role of LLM is to decide if the image belongs to one of the following categories: personal, social, professional.
+The aim of this project is to test if pre-trained LLMs (such as ChatGPT) can be used for image context categorization based on image captions and tags. The role of the LLM is to decide if the image belongs to one of the following categories: personal, social, or professional.
 
-## Prequisite: 
+## Prerequisite
 
-Clone the repository by using git clone https://github.com/yagub03/YagubThesis.git command and then cd YagubThesis
+Clone the repository using the following command:
 
-## How to run our project:
-## Captioning: 
-Open captioing.ipynb
-We ned to add folder where our image data is and then also choose where we want our .txt file result. After this we can run our code in Jupyter notebook
-## Tagging: 
-For running: pip install -r requirements.txt
-single file
-
+```bash
+git clone https://github.com/yagub03/YagubThesis.git
+cd YagubThesis
 ```
+
+## How to Run Our Project
+
+### Captioning
+1. Open `captioning.ipynb`.
+2. Add the folder where your image data is located.
+3. Choose where you want the `.txt` file result.
+4. Run the code in Jupyter notebook.
+
+### Tagging
+To install the required packages, run:
+
+```bash
+pip install -r requirements.txt
+```
+
+#### Single File
+
+```bash
 python run.py --file image.jpg
 ```
 
-batch execution
+#### Batch Execution
 
-```
+```bash
 python run.py --dir dir/dir
 ```
 
-## Support Models
+### Support Models
 
-```
+You can specify different models for tagging:
+
+```bash
 python run.py --file image.jpg --model wd14-vit.v1
 python run.py --file image.jpg --model wd14-vit.v2
 python run.py --file image.jpg --model wd14-convnext.v1
@@ -41,16 +59,17 @@ python run.py --file image.jpg --model mld-caformer.dec-5-97527
 python run.py --file image.jpg --model mld-tresnetd.6-30000
 ```
 
-## Using GPU
-
-Requires CUDA 12.2 and cuDNN8.x.
+### Using GPU
+Requires CUDA 12.2 and cuDNN 8.x.
 
 ## LLM
-Open sb6z.py
-Add tags and captions folder and don't forget to add your API key
-Then you need to choose which GPT model you want to use.At last we choose output file path adn run the code as 
-## 
-``` python sb6z.py ``` 
 
+1. Open `sb6z.py`.
+2. Add the tags and captions folder.
+3. Add your API key.
+4. Choose which GPT model you want to use.
+5. Choose the output file path and run the code:
 
-
+```bash
+python sb6z.py
+```
